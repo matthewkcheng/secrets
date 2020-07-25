@@ -2,7 +2,7 @@
 
 The Secrets App is an anonymous social media app. User's are able to share a secret or a confession about themselves anonymously and it will be posted onto the collective dashboard for everyone to see. This app was created to apply my knowledge of security and authentication. The app uses hashing and salting to protect the user's login data and OAuth 2.0 if the user decides to register through a social media platform.
 
-[LIVE DEMO](https://damp-cove-27024.herokuapp.com/)
+[LIVE DEMO](https://enigmatic-temple-07599.herokuapp.com/)
 
 ## Installation
 
